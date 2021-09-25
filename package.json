@@ -1,0 +1,21 @@
+{
+  "name": "food-festival",
+  "version": "14.17.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carinvid/food-festival.git"
+  },
+  "author": "Carolina Reedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carinvid/food-festival/issues"
+  },
+  "homepage": "https://github.com/carinvid/food-festival#readme"
+}
